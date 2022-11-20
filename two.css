@@ -64,3 +64,23 @@
     padding-bottom: 20px;
     padding-top: 20px;
 }
+
+.banner-img
+{
+   width: 600px;
+   height: 300px;
+   float: left;
+}
+.nature-img
+{
+   width: 500px;
+   height: 400px; 
+   float: right;
+}
+body{
+    background-color: whitesmoke;
+    background-image: url("images/white.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
